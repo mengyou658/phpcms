@@ -20,6 +20,8 @@
 <br/>		),
 <br/>);
 
+修改phpcms/caches/configs/system.php
+'upload_url' => 'http://对应的服务器ip/phpcms/uploadfile/', //附件路径
 
 <br/>
 欢迎交流。。。欢迎来信。。。
